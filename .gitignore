@@ -1,0 +1,3 @@
+# Ignore contents of the pages folder
+pages/
+tool/server/__pycache__/
